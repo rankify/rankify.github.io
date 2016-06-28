@@ -1,0 +1,27 @@
+# robots.txt for http://www.vanstart.com/
+
+User-agent: * 					# Dit geld voor alle robots
+				# hier komen alle directories
+User-agent: Mediapartners-Google*
+Disallow:
+
+Disallow: /*.txt
+Disallow: /cutecast/
+Disallow: /forum/
+Disallow: /forms/
+Disallow: /help/
+Disallow: /images/
+Disallow: /Library/ 
+Disallow: /owp/
+Disallow: /Templates/
+Disallow: /zzz/
+
+User-agent: Linkwalker
+Disallow: /
+
+User-agent: psbot
+Disallow: /
+
+User-Agent: MSIECrawler
+Disallow: /
+

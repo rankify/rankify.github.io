@@ -1,0 +1,222 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.topheader {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	color: #000033;
+	text-transform: none;
+	font-weight: bold;
+
+}
+.t {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.leftbox {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+a:link, a:visited {
+ color: #000000; 
+ text-decoration: underline;
+ }
+a:active {
+ color: #333333;
+ text-decoration: underline;
+ }
+a:hover {
+ color:#666666;
+ text-decoration: underline;
+}
+.banner {
+	border: 1px solid #CCCCCC;
+	margin: 0px;
+	padding: 0px;
+}
+.tr_repeatheader {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+.tr_repeatnormal {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: ;
+	font-weight: normal;
+}
+.footer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: center;
+}
+.small {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+.medium {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.big {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+.xbig {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+}
+.expanded {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 24px;
+	letter-spacing: 2px;
+}
+.justified {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: justify;
+}
+.city {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+}
+.pop {
+	font-size: 9px;
+	color: #FF0000;
+}
+.north {
+	background-color: #669900;
+}
+.central {
+	background-color: #CC6600;
+}
+.pacific {
+	background-color: #CCCC33;
+}
+.south {
+	background-color: #CC6699;
+}
+.victoria {
+	background-color: #FFFFFF;
+}
+
+/* Ads on VanStart - On the right side of page */
+
+.topadsheader {
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+.topadsmiddle {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+.topadsbottom {
+	font-size: 10px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+}
+a.noline{
+	text-decoration: none;
+	cursor: hand;
+}
+
+.topads {
+	text-align: center;
+	text-decoration: none;
+	background-color: #FFFFFEE;
+}
+
+.selected-tab {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-size: 12px;
+}
+.q a:visited,.q a:link,.q a:active,.q {
+	text-decoration:none;
+	color:#00c;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.r a:visited,.r a:link,.r a:active,.r {
+	text-decoration:none;
+	color:#000099;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+.s a:visited,.s a:link,.s a:active,.s {
+	color:#00c;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+
+}
+
+.t a:link {
+	color:#0000CC;
+}
+.t a:visited {
+	color:#663399}
+.t a:active {
+	color:#CC3366}
+.topads {
+	text-align: center;
+	text-decoration: none;
+	background-color: #FFFFEE;
+
+}
+
+/* sitewide sponsors vanstart */
+
+div.front-ad {
+	width: 270px;
+	float: left;
+	margin: 0 10px 10px 0;
+	padding-bottom: 10px;
+	border: 1px solid #777;
+	background-color:#FFFFFF;
+	}
+div.front-ad img {
+	float: left;
+	margin: 5px 5px 0 5px;
+	border: 2px solid #777;
+	}
+div.front-ad p {
+	margin-top: 5px;
+	padding: 0px 0px 0px 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	}
+	
+.front-ad-h {
+	font:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	font-weight:bold;
+	margin-bottom: 5px;
+}
+
+.front-ad-title {
+    font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left: 5px;
+	}
+
+
+/* premium sponsor text  */
+
+.premium-text {
+	font:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	margin: -20 0 5px 0;
+	
+}
